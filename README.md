@@ -1,4 +1,4 @@
-# Student Performence Prediction Model
+# Student Performance Prediction Model
 ## Introduction
 In this project, we compared multiple machine learning models and their performance in student test score prediction.
 ## Models
